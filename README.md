@@ -7,14 +7,15 @@ You will need to rename `.env.example` to `.env` and provide the values manually
 
 ## Install the Dependencies and Start the API
 
-First, cd into your project's directory in your terminal and then run the following commands:
+First, clone/download the repository and cd into your project's directory in your terminal and then run the following commands:
 
 ```bash
 composer install
 php -S localhost:3010
 ```
 
-The API will be served at `http://localhost:3010`. This assumes that you have PHP and Composer already installed on your machine.
+The API will be served at `http://localhost:3010`. 
+* This assumes that you have PHP and Composer already installed on your machine.
 
 ## Endpoint
 
